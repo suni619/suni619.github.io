@@ -39,7 +39,7 @@
 				<a class="no-underline" href="resume.pdf">View RESUME</a>
 			</div>
 			<div id="resume-download">
-				<a href="resume.pdf"><span class="smallText">Download PDF</span></a>
+				<a href="resume.pdf" download="Sunil_Koundinya_resume"><span class="smallText">Download PDF</span></a>
 			</div>
 		</div>
 		<div id="right-pane">
