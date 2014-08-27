@@ -27,7 +27,7 @@ body {
 	height: 200px;
 	border: 2px solid;
 	background-image: url('../images/suni.jpg');
-	background-size: 98% 99%;
+	background-size: 45% 92%;
 	background-repeat: no-repeat;
 	background-position: 50%;
 }
